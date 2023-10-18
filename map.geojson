@@ -7155,7 +7155,7 @@
         "stroke": "#ff0000",
         "stroke-opacity": 0.5
       },
-      "id": 2
+      "id": 1
     },
     {
       "type": "Feature",
@@ -9260,16 +9260,16 @@
       },
       "properties": {
         "who": "bloc shop",
-        "fill": "#ffff00",
+        "fill": "#c6c600",
         "stroke": "#ffff00",
         "stroke-opacity": 0.5
       },
-      "id": 3
+      "id": 2
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ecec00"
+        "marker-color": "#ffff80"
       },
       "geometry": {
         "coordinates": [
